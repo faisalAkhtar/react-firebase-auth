@@ -29,3 +29,15 @@ code {
 	align-items: center;
 	text-align: center;
 }
+
+input, button {
+	display: block;
+	font-size: inherit;
+	padding: 5px 12px;
+	margin: 0 auto 12px auto;
+	border-radius: 3px;
+}
+
+button {
+	cursor: pointer;
+}
